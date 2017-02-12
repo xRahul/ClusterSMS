@@ -1,2 +1,12 @@
 
 *.csv
+
+lda_model_10_topics_300_passes_13Feb_4am
+
+*.npy
+
+*.id2word
+
+*.state
+
+lda_model_13Feb_3am
